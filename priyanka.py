@@ -1,1 +1,1 @@
-print("hello i am trying not to die")
+print("testing git")
